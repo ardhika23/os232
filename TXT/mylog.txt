@@ -17,5 +17,6 @@ ZCZC W01 15 L03 GitHub related
 ZCZC W01 15 L04 Github Pages related
 ZCZC W01 30 L05 Quiz related including studying
 ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC w01 90 L11 Assignment #01
+ZCZC W01 90 L11 Assignment #01
+ZCZC W01 3 TXT/mylog.txt related.
 ZCZC W01 15 L88 Workout
