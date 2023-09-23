@@ -21,3 +21,13 @@ permalink: LINKS/
 | 4. | Overview of Asymmetric Encryption. | Provides an in-depth explanation of asymmetric encryption mechanisms. | https://www.youtube.com/watch?v=AQDCe585Lnc |
 |5. | "MR. ROBOT" - a drama series about hacker Elliot. | The narrative, protagonist's expertise in C, and Linux references captivate me. | MR. ROBOT series on netflix. |
 ---
+
+## Week 03
+|`No`| `What the link is about?`| `Why you think the link is interesting?` | `Link` |
+|----|--------------------------|------------------------------------------|---------|
+| 1. | Comprehensive Linux tutorial video. | 	Clarified many Linux concepts, enhancing my understanding. | 	https://www.youtube.com/watch?v=HbgzrKJvDRw |
+| 2. | 	Insightful video discussing Linux interview questions. | Valuable as I explore job opportunities in Linux. | https://www.youtube.com/watch?v=l0QGLMwR-lY |
+| 3. | Detailed article elucidating SHA256SUM's origins and functionalities. | Insightful on SHA256 checksums and data integrity. | https://docs.precisely.com/docs/sftw/spectrum/ProductUpdateSummary/ProductUpdateSummary/source/about_sha256.html | 
+| 4. | A web platform elucidating shell commands. | Useful for understanding the functionality of various commands. | https://explainshell.com |
+|5. | C Programming tutorial series for beginners. | Offers a comprehensive breakdown of C language concepts. | https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e|
+---
