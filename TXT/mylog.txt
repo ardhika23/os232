@@ -40,3 +40,13 @@ ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS relate
 ZCZC W03 90 L13 Assignment #03
 ZCZC W03 3 L41 TXT/mylog.txt related.
 ZCZC W03 15 L88 Workout
+ZCZC W04 10 L00 General, etc.
+ZCZC W04 10 L01 SCELE related
+ZCZC W04 200 L02 CLASSROOM meetings related
+ZCZC W04 15 L03 GitHub related
+ZCZC W04 15 L04 Github Pages related
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS relate
+ZCZC W04 90 L14 Assignment #04
+ZCZC W04 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 3 L41 TXT/mylog.txt related.
+ZCZC W04 60 L88 Workout/Sport/Exercise/ETC.
