@@ -19,7 +19,7 @@ permalink: LINKS/
 | 2. | Interactive GPG tutorial with detailed documentation. | The GPG tutorials proved highly beneficial, especially this resource. | https://www.devdungeon.com/content/gpg-tutorial |
 | 3. | Understanding Linux file permissions. | Intriguing due to frequent use in tasks like running script.sh. | https://www.howtogeek.com/67987/htg-explains-how-do-linux-file-permissions-work/ | 
 | 4. | Overview of Asymmetric Encryption. | Provides an in-depth explanation of asymmetric encryption mechanisms. | https://www.youtube.com/watch?v=AQDCe585Lnc |
-|5. | "MR. ROBOT" - a drama series about hacker Elliot. | The narrative, protagonist's expertise in C, and Linux references captivate me. | MR. ROBOT series on netflix. |
+| 5. | "MR. ROBOT" - a drama series about hacker Elliot. | The narrative, protagonist's expertise in C, and Linux references captivate me. | MR. ROBOT series on netflix. |
 ---
 
 ## Week 03
@@ -29,5 +29,16 @@ permalink: LINKS/
 | 2. | 	Insightful video discussing Linux interview questions. | Valuable as I explore job opportunities in Linux. | https://www.youtube.com/watch?v=l0QGLMwR-lY |
 | 3. | Detailed article elucidating SHA256SUM's origins and functionalities. | Insightful on SHA256 checksums and data integrity. | https://docs.precisely.com/docs/sftw/spectrum/ProductUpdateSummary/ProductUpdateSummary/source/about_sha256.html | 
 | 4. | A web platform elucidating shell commands. | Useful for understanding the functionality of various commands. | https://explainshell.com |
-|5. | C Programming tutorial series for beginners. | Offers a comprehensive breakdown of C language concepts. | https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e|
+| 5. | C Programming tutorial series for beginners. | Offers a comprehensive breakdown of C language concepts. | https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e|
+---
+
+## Week 04
+|`No`| `What the link is about?`| `Why you think the link is interesting?` | `Link` |
+|----|--------------------------|------------------------------------------|---------|
+| 1. | A README file for tlpi-dist. | Provides a concise guide on utilizing tlpi, enhancing my practical understanding. | https://github.com/bradfa/tlpi-dist/blob/master/README |
+| 2. | A video discussing the processes of compiling, assembling, and linking. | Offers intriguing insights into the workings of compilers, making the learning process more engaging. | https://www.youtube.com/watch?v=N2y6csonII4 |
+| 3. | A comprehensive tutorial on makefiles. | Demystifies makefiles, presenting information clearly. | https://makefiletutorial.com/ | 
+| 4. | A video exploring the concepts of memory & storage. | Provides a balanced overview of memory & storage, deepening my understanding of these essential computing elements. | https://www.youtube.com/watch?v=TQCr9RV7twk&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=20 |
+|5. | A video detailing files & file systems. | It’s inspiring and motivates thorough learning of file systems, a crucial aspect of computing. | https://www.youtube.com/watch?v=KN8YgJnShPM&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=21 |
+| 6 .| A video on the topic of compression. | Given the relevance of compression in the context of makefiles and compilers, this video adds another layer to my understanding of the subject. | https://www.youtube.com/watch?v=OtDxDvCpPL4&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=22 |
 ---
