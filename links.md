@@ -39,6 +39,14 @@ permalink: LINKS/
 | 2. | A video discussing the processes of compiling, assembling, and linking. | Offers intriguing insights into the workings of compilers, making the learning process more engaging. | https://www.youtube.com/watch?v=N2y6csonII4 |
 | 3. | A comprehensive tutorial on makefiles. | Demystifies makefiles, presenting information clearly. | https://makefiletutorial.com/ | 
 | 4. | A video exploring the concepts of memory & storage. | Provides a balanced overview of memory & storage, deepening my understanding of these essential computing elements. | https://www.youtube.com/watch?v=TQCr9RV7twk&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=20 |
-|5. | A video detailing files & file systems. | It’s inspiring and motivates thorough learning of file systems, a crucial aspect of computing. | https://www.youtube.com/watch?v=KN8YgJnShPM&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=21 |
+| 5. | A video detailing files & file systems. | It’s inspiring and motivates thorough learning of file systems, a crucial aspect of computing. | https://www.youtube.com/watch?v=KN8YgJnShPM&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=21 |
 | 6 .| A video on the topic of compression. | Given the relevance of compression in the context of makefiles and compilers, this video adds another layer to my understanding of the subject. | https://www.youtube.com/watch?v=OtDxDvCpPL4&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=22 |
+---
+
+## Week 05
+|`No`| `What the link is about?`| `Why you think the link is interesting?` | `Link` |
+|----|--------------------------|------------------------------------------|---------|
+| 1. | An article discussing the '++' operator in C. | Provides clarity on the functionality of the '++' operator in C, enhancing my understanding. | https://www.programiz.com/article/increment-decrement-operator-difference-prefix-postfix |
+| 2. | A video tutorial on the VI editor. | Deepens my grasp on pointers in C, making the topic more accessible. | https://youtu.be/pU2k776i2Zw |
+| 3. | A comprehensive guide on pointers in C. | Illuminates the topic of pointers, presenting the information in a lucid manner. | https://www.tutorialspoint.com/cprogramming/c_pointers.htm | 
 ---
