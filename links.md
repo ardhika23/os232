@@ -50,3 +50,9 @@ permalink: LINKS/
 | 2. | A video tutorial on the VI editor. | Deepens my grasp on pointers in C, making the topic more accessible. | https://youtu.be/pU2k776i2Zw |
 | 3. | A comprehensive guide on pointers in C. | Illuminates the topic of pointers, presenting the information in a lucid manner. | https://www.tutorialspoint.com/cprogramming/c_pointers.htm | 
 ---
+
+## Week 06
+|`No`| `What the link is about?`| `Why you think the link is interesting?` | `Link` |
+|----|--------------------------|------------------------------------------|--------|
+| 1. | A cheatsheet for creating Markdown (.md) files. | Assists with the formatting and design of Markdown pages, streamlining the process. | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet |
+---
