@@ -56,3 +56,9 @@ permalink: LINKS/
 |----|--------------------------|------------------------------------------|--------|
 | 1. | A cheatsheet for creating Markdown (.md) files. | Assists with the formatting and design of Markdown pages, streamlining the process. | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet |
 ---
+
+## Week 07
+|`No`| `What the link is about?`| `Why you think the link is interesting?` | `Link` |
+|----|--------------------------|------------------------------------------|--------|
+| 1. | SCP guide from linuxize.com. | Useful for our complex SCP task in this week's assignment. | https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/ |
+---
