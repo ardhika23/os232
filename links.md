@@ -62,3 +62,9 @@ permalink: LINKS/
 |----|--------------------------|------------------------------------------|--------|
 | 1. | SCP guide from linuxize.com. | Useful for our complex SCP task in this week's assignment. | https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/ |
 ---
+
+## Week 08 |`No`| `What the link is about?`| `Why you think the link is interesting?` | `Link` | 
+|----|--------------------------|------------------------------------------|--------| 
+| 1. | A complete tutorial on Linux From Scratch (LFS). | Essential guide for my LFS journey. | https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/chapter03/introduction.html | 
+| 2. | A speedrun video of Linux From Scratch on YouTube. | Shows time and process for LFS completion. | https://www.youtube.com/watch?v=BaON_Hn_0_A |
+ ---

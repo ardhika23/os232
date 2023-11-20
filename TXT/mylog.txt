@@ -80,3 +80,12 @@ ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 90 L09 Weekly Assignments
 ZCZC W07 3 L41 TXT/mylog.txt related.
 ZCZC W07 15 L88 Workout
+ZCZC W08 20 L00 General, etc. 
+ZCZC W08 10 L01 SCELE related 
+ZCZC W08 200 L02 CLASSROOM meetings related 
+ZCZC W08 15 L03 GitHub related 
+ZCZC W08 15 L04 Github Pages related 
+ZCZC W08 30 L05 Quiz related including studying 
+ZCZC W08 30 L06 References/Books/Documents/Browsing/GSGS related 
+ZCZC W08 90 L09 Weekly Assignments 
+ZCZC W08 3 L41 TXT/mylog.txt related.
